@@ -1,0 +1,37 @@
+.navbar a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 10px 15px;
+    margin: 0 5px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    background-color: rgba(0, 255, 13, 0.5);
+}
+
+body {
+    background: url('img/background_img/bjimg.jpg')fixed;
+    color: rgb(0, 0, 0);
+    font-family: 'youyuan';
+    text-align: center;
+}
+
+.main-container {
+    padding: 20px;
+    width: 60%;
+    margin: 20px auto;
+    background-color: rgba(255, 0, 0, 0.5);
+    border-radius: 20px;
+}
+
+.now {
+    background-color: rgba(111, 113, 243, 0.5);
+}
+
+.footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: rgba(0, 255, 21, 0.5);
+}
