@@ -1,8 +1,5 @@
 # Web Find the Difference Game 🕵️‍♂️
 
-![GitHub stars](https://img.shields.io/github/stars/TsangHaotian/Web_Find_a_difference?style=social)
-![GitHub forks](https://img.shields.io/github/forks/TsangHaotian/Web_Find_a_difference?style=social)
-
 An online "Find the Difference" game built with HTML/CSS/JavaScript, featuring a timer.
 
 ## 🎮 Game Features
